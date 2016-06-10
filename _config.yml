@@ -1,0 +1,28 @@
+name: jhslack
+favicon: null
+layout_spectrum: 0.4454524659086019
+typography_spectrum: 0.6406064229086041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.041069233790040016
+  lightness: 0.5133184588048607
+  saturation: 0.912420597160235
+  rhythmicContrast: 0.9755652211606503
+purpose: []
