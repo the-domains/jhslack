@@ -2,6 +2,7 @@ name: jhslack
 favicon: null
 layout_spectrum: 0.45826
 typography_spectrum: 0.6406064229086041
+title: Jackson Hole's Slack Community
 cta:
   domain: null
   bucket: null
